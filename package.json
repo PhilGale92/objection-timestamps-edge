@@ -1,6 +1,6 @@
 {
   "name": "objection-timestamps-edge",
-  "version": "5.1.0",
+  "version": "5.0.0",
   "description": "Objectionjs plugin to update created_at and updated_at columns tweaked to peer dependency on an edge compat build",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
