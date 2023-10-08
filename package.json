@@ -51,6 +51,6 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "objection": "npm:objection-edgeruntime@^4.0.0"
+    "objection": "npm:objection-edgeruntime@^3.0.0"
   }
 }
