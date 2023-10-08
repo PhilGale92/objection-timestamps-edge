@@ -1,5 +1,5 @@
 {
-  "name": "objection-timestamp-edge",
+  "name": "objection-timestamp-edgeruntime",
   "version": "1.0.0",
   "description": "Objectionjs plugin to update created_at and updated_at columns tweaked to peer dependency on an edge compat build",
   "main": "dist/index.js",
@@ -51,6 +51,6 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "objection": "npm:objection-edge@^4.0.0"
+    "objection": "npm:objection-edgeruntime@^4.0.0"
   }
 }
